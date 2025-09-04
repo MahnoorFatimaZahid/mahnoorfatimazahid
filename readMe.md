@@ -1,15 +1,13 @@
-<h1 align="center">✨ Mahnoor Fatima ✨</h1>
-<h3 align="center">MERN Stack Developer • Malaysia</h3>
+<h1 align="center">Mahnoor Fatima </h1>
+<h3 align="center">MERN Stack Developer • Pakistan/Malaysia</h3>
 <h4 align="center"><i>Where Art, Design & Code Collide</i></h4>
 
 ---
 
-## 👩🏻‍💻 About Me
-
-- 💻 Passionate about **MERN stack development** (MongoDB, Express, React, Node.js).  
-- 🌸 Love blending **design & development** into meaningful digital experiences.  
-- 🌍 Based in **Malaysia**, open to collaborations worldwide.  
-- 📈 Always learning: exploring **Machine Learning & Cloud Technologies**.  
+- Passionate about **MERN stack development** (MongoDB, Express, React, Node.js).  
+- Love blending **Design & Development** into meaningful digital experiences.  
+- Based in **Pakistan**/**Malaysia**/, open to collaborations worldwide.  
+- Always learning: exploring **Machine Learning & Cloud Technologies**.  
 
 ---
 
@@ -38,19 +36,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MahnoorFatimaZahid&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorFatimaZahid&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=MahnoorFatimaZahid&theme=radical&hide_border=true" />
-</p>
 
 
-## 🤝🏻 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-MahnoorFatima-FF69B4?style=for-the-badge&logo=linkedin&logoColor=black"></a>
@@ -59,6 +54,4 @@
 </p>
 
 ---
-
-⭐️ From [MahnoorFatima](https://github.com/MahnoorFatimaZahid)  
-<img align="right" src="https://profile-counter.glitch.me/{MahnoorFatimaZahid}/count.svg" />  
+ From [MahnoorFatima](https://github.com/MahnoorFatimaZahid)  
