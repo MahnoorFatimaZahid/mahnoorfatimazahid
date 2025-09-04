@@ -6,7 +6,7 @@
 
 - Passionate about **MERN stack development** (MongoDB, Express, React, Node.js).  
 - Love blending **Design & Development** into meaningful digital experiences.  
-- Based in **Pakistan**/**Malaysia**/, open to collaborations worldwide.  
+- Based in **Pakistan**/**Malaysia**, open to collaborations worldwide.  
 - Always learning: exploring **Machine Learning & Cloud Technologies**.  
 
 ---
