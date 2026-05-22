@@ -53,11 +53,6 @@ const mahnoor = {
 ---
 
 ## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorFatimaZahid&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MahnoorFatimaZahid&theme=tokyonight&hide_border=true" width="55%"/>
 </div>
