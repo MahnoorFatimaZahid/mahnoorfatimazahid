@@ -5,7 +5,7 @@ const mahnoor = {
   role        : "Full Stack Developer & GenAI Engineer",
   experience  : "3+ years building scalable web apps and AI-powered systems",
   location    : "Pakistan · Malaysia",
-  working     : "MERN Stack Developer,
+  working     : "MERN Stack Developer",
   building    : ["RAG pipelines", "Multi-agent systems", "Real-time apps"],
   stack       : ["React · Next.js · NestJS", "LangChain · LangGraph", "AWS · Docker · Linux"],
   community   : "Mentoring and supporting women in tech",
@@ -60,6 +60,12 @@ const mahnoor = {
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MahnoorFatimaZahid&theme=tokyonight&hide_border=true" width="55%"/>
+</div>
 
 ## Connect
 
