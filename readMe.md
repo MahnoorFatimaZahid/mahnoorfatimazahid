@@ -1,8 +1,17 @@
 # Hi, I'm Mahnoor Fatima
 
-Full Stack Developer and GenAI Engineer with 3+ years of experience building scalable web applications and AI-powered systems. Based in Pakistan and Malaysia, open to remote collaborations worldwide.
-
-Currently working as a MERN Stack Developer at Rapid Digi Solutions, building real-time systems, RAG pipelines, and multi-agent AI workflows. Actively mentoring and supporting women in tech communities.
+```ts
+const mahnoor = {
+  role        : "Full Stack Developer & GenAI Engineer",
+  experience  : "3+ years building scalable web apps and AI-powered systems",
+  location    : "Pakistan · Malaysia",
+  working     : "MERN Stack Developer,
+  building    : ["RAG pipelines", "Multi-agent systems", "Real-time apps"],
+  stack       : ["React · Next.js · NestJS", "LangChain · LangGraph", "AWS · Docker · Linux"],
+  community   : "Mentoring and supporting women in tech",
+  motto       : "Build smart. Ship fast. Make it matter.",
+};
+```
 
 ---
 
@@ -35,15 +44,14 @@ Currently working as a MERN Stack Developer at Rapid Digi Solutions, building re
 ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-333333?style=for-the-badge&logo=groq&logoColor=F55036)
-![HuggingFace](https://img.shields.io/badge/-Hugging_Face-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-333333?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-333333?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)![Railway](https://img.shields.io/badge/-Railway-333333?style=for-the-badge&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 **Tools**
@@ -52,31 +60,6 @@ Currently working as a MERN Stack Developer at Rapid Digi Solutions, building re
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorFatimaZahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorFatimaZahid&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MahnoorFatimaZahid&theme=tokyonight&hide_border=true" width="55%"/>
-</div>
-
----
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg"/>
-</picture>
-
----
 
 ## Connect
 
