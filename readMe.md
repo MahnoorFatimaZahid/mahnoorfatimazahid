@@ -67,6 +67,14 @@ const mahnoor = {
   <img src="https://streak-stats.demolab.com?user=MahnoorFatimaZahid&theme=tokyonight&hide_border=true" width="55%"/>
 </div>
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg"/>
+</picture>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mahnoor-fatima132)
