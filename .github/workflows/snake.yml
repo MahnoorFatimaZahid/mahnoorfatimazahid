@@ -1,4 +1,5 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -20,7 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
