@@ -15,7 +15,7 @@ const mahnoor = {
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -52,10 +52,9 @@ const mahnoor = {
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorFatimaZahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorFatimaZahid&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </div>
 
@@ -65,17 +64,7 @@ const mahnoor = {
 
 ---
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MahnoorFatimaZahid/MahnoorFatimaZahid/output/github-snake.svg"/>
-</picture>
-
----
-
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahnoor-fatima132)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square&logo=vercel&logoColor=white)](https://mahnoorfatimaportfolio.vercel.app/)
