@@ -61,11 +61,6 @@ const mahnoor = {
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MahnoorFatimaZahid&theme=tokyonight&hide_border=true" width="55%"/>
-</div>
 
 ## Contributions
 
